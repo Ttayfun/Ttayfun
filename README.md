@@ -24,5 +24,6 @@ I develop modern react, vue and angular apps for many clients based on core busi
 ![icons8-tailwindcss-48](https://user-images.githubusercontent.com/45968094/203045012-0ae77ac9-affc-4993-829c-a85a8018a0d4.png)
 
 ## 📧 Contact
-<a href="https://www.linkedin.com/in/tayfun-taylan"> <img src="https://user-images.githubusercontent.com/45968094/203048882-d22f9340-dbaa-4f37-866c-8884846cf135.png" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/omrumbakitemiz"><img width="48px" height="48px" src="https://user-images.githubusercontent.com/12871066/203302514-3640ced9-8d37-416f-a57c-fa5623d8cbdb.gif" alt="linkedin"/>
+</a>
 
